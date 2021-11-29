@@ -27,6 +27,9 @@ In order to look at outcomes based on the fundraising goals, the following steps
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93882635/143691501-7a4d21a1-038f-41a9-a920-5fe98f0fca5e.png)
 
+### Challenges
+The dataset used for this analysis consisted of 4114 fundraisers in 9 categories. Filters had to be used to ensure that the fundraisers used for analysis were comparable to the play that Louise is planning to fund. 
+
 
 ## Results
 1. Looking at outcomes by launch date, the months May and June have not only the highest number of campaigns launched, but also the highest success rate at respectively 67% and 65%. The data suggests that launching a fundraising campaign in either May or June may lead to an increased chance of meeting the fundraising goal.
